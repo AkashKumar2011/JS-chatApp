@@ -20,7 +20,11 @@ A modern, responsive **Chat Application** inspired by Telegram and WhatsApp. Bui
 ├── script.js # Full client-side chat logic and interaction
 └── README.md # Documentation and usage instructions
 
+## 🚀 deployment URL
+    Demo url - https://akashkumar2011.github.io/JS-chatApp/
 
+## 📁 Project files
+    Code url - https://github.com/AkashKumar2011/JS-chatApp.git
 
 ## 🚀 How to Run
 
