@@ -15,10 +15,10 @@ A modern, responsive **Chat Application** built with **HTML, CSS, and JavaScript
 
 ## 📁 Project Structure
 
-├── index.html # Main UI layout
-├── styles.css # Complete styling (including responsive design)
-├── script.js # Full client-side chat logic and interaction
-└── README.md # Documentation and usage instructions
+├── index.html # Main UI layout <br>
+├── styles.css # Complete styling (including responsive design)<br>
+├── script.js # Full client-side chat logic and interaction<br>
+└── README.md # Documentation and usage instructions<br>
 
 ## 💡 deployment URL
     Demo url - https://akashkumar2011.github.io/JS-chatApp/
